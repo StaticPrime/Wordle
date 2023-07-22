@@ -1,0 +1,20 @@
+{
+    "name": "wordle",
+    "description": "A simple Wordle Game",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "tsc",
+      "lint": "eslint . --ext .ts"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/StaticPrime/Wordle.git"
+    },
+    "author": "Jason Breault",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/StaticPrime/Wordle/issues"
+    },
+    "homepage": "https://github.com/StaticPrime/Wordle#readme"
+  }
+  
